@@ -1,0 +1,4 @@
+cache/store/*
+cache/tags/*
+.psysh.php
+vendor

@@ -1,0 +1,20 @@
+{
+  "name": "nazmulpcc/mimicache",
+  "description": "A very simple file base caching library",
+  "type": "library",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Nazmul Alam",
+      "email": "nazmulpcc@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "nazmulpcc\\": "src/"
+    }
+  },
+  "require": {},
+  "minimum-stability": "dev",
+  "extra": {}
+}
