@@ -2,7 +2,7 @@
   "name": "nazmulpcc/mimicache",
   "description": "A very simple file base caching library",
   "type": "library",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "authors": [
     {
       "name": "Nazmul Alam",
